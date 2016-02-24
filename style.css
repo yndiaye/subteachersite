@@ -1,0 +1,10 @@
+header{
+	background-size: cover;
+	background: url(http://www.circlek.org/Libraries/2013_branding_design_elements/graphics_CKI_horizontal_stripes7467_CMYK.sflb.ashx);
+	text-align: center;
+}
+img {
+	height: 200px;
+	width: 200px;
+	border:10px solid white;
+}
